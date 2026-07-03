@@ -1,0 +1,6 @@
+{
+  "name": "TTD Darshan Timings Tracker- Designed by Manoj",
+  "description": "A live tracker and crowd prediction assistant for Tirumala Tirupati Devasthanams (TTD) darshan timings, wait times, pilgrim statistics, and booking releases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
